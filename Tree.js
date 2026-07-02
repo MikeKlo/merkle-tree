@@ -16,6 +16,10 @@ class Tree {
         this.root = null;
     }
 
+    addNext( child, parent ){
+        
+    }
+
     addNode(node){
         // TODO 1 Implement 
     }
