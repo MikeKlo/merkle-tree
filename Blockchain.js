@@ -24,6 +24,7 @@ class Blockchain {
         
         this.chain = [
              /* TODO 1: Create the genesis block here */ 
+             Block("Hello, blockchain") 
             ];
     }
 
